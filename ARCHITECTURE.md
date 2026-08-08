@@ -4,7 +4,7 @@ This document provides a detailed explanation of the AWS streaming data architec
 
 ## Architecture Diagram
 
-![AWS Streaming Data Architecture](AWS_Entity_Project.png)
+![AWS Streaming Data Architecture](AWS_Entity_Project.drawio.png)
 
 ---
 
