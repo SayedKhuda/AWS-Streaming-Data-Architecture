@@ -4,9 +4,11 @@ This project demonstrates an AWS-based streaming data architecture designed usin
 
 The architecture shows how data can be collected from an external source, processed through AWS streaming and serverless services, transformed and stored in Amazon S3, and finally queried and visualised for analytics.
 
-## Architecture Diagram
+### Editable Diagram
 
-![AWS Streaming Data Architecture](AWS_Entity_Project.png)
+The original draw.io file is included in this repository for viewing and editing:
+
+[Open the draw.io source file](AWS_Entity_Project.drawio)
 
 ## Architecture Overview
 
